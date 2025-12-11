@@ -2,7 +2,7 @@
 
 To run the analysis, **you must download the following ROOT files** from the official CERN Open Data portal and place them in the same directory as `code.py`:
 
-🔗 **Download page:** [https://opendata.cern/record/15005](https://opendata.cern/record/15005)
+**Download page:** [https://opendata.cern/record/15005](https://opendata.cern/record/15005)
 
 ## Required Files
 
