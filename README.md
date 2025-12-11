@@ -21,8 +21,6 @@ These contain four-lepton candidate events collected during different ATLAS data
 
 ### **Signal Monte Carlo Samples**
 
-Simulated Higgs boson production with ( H \to ZZ^* \to 4\ell ):
-
 | File Name                            | Description                                |
 | ------------------------------------ | ------------------------------------------ |
 | `mc_341947.ZH125_ZZ4lep.4lep.root`   | ZH associated production ((m_H = 125) GeV) |
@@ -36,7 +34,16 @@ Simulated Higgs boson production with ( H \to ZZ^* \to 4\ell ):
 
 | File Name                  | Description                             |
 | -------------------------- | --------------------------------------- |
-| `mc_363490.llll.4lep.root` | Irreducible (ZZ^* \to 4\ell) background |
+| `mc_363490.llll.4lep.root` | Irreducible 4-lepton background         |
 
 ---
+
+# Running the Analysis
+
+Below is an example screenshot showing what a successful execution of the `code.py` analysis script looks like:
+
+![run_screenshot](run.PNG)
+
+---
+
 
