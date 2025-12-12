@@ -35,9 +35,9 @@ These contain four-lepton candidate events collected during different ATLAS data
 | -------------------------- | --------------------------------------- |
 | `mc_363490.llll.4lep.root` | Irreducible 4-lepton background         |
 | `mc_410000.ttbar_lep.4lep.root` | Leptonic $t\bar{t}$ background       |
-| `mc_361108.Ztautau.4lep.root`    | $Z \rightarrow \tau\tau$ background ($Z+$jets) |
-| `mc_361107.Zmumu.4lep.root`      | $Z \rightarrow \mu\mu$ background ($Z+$jets)  |
-| `mc_361106.Zee.4lep.root`        | $Z \rightarrow ee$ background ($Z+$jets)      |
+| `mc_361108.Ztautau.4lep.root`    | $Z \rightarrow \tau\tau$ background (Z+jets) |
+| `mc_361107.Zmumu.4lep.root`      | $Z \rightarrow \mu\mu$ background (Z+jets)  |
+| `mc_361106.Zee.4lep.root`        | $Z \rightarrow ee$ background (Z+jets)      |
 
 ---
 
