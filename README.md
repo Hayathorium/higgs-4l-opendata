@@ -23,18 +23,21 @@ These contain four-lepton candidate events collected during different ATLAS data
 
 | File Name                            | Description                                |
 | ------------------------------------ | ------------------------------------------ |
-| `mc_341947.ZH125_ZZ4lep.4lep.root`   | ZH associated production ((m_H = 125) GeV) |
+| `mc_341947.ZH125_ZZ4lep.4lep.root`   | ZH associated production                   |
 | `mc_341964.WH125_ZZ4lep.4lep.root`   | WH associated production                   |
-| `mc_344235.VBFH125_ZZ4lep.4lep.root` | Vector Boson Fusion (VBF) Higgs            |
-| `mc_345060.ggH125_ZZ4lep.4lep.root`  | Gluon–gluon fusion (ggF) Higgs             |
+| `mc_344235.VBFH125_ZZ4lep.4lep.root` | Vector Boson Fusion                        |
+| `mc_345060.ggH125_ZZ4lep.4lep.root`  | Gluon–gluon fusion                         |
 
 ---
-
 ### **Background Monte Carlo Samples**
 
 | File Name                  | Description                             |
 | -------------------------- | --------------------------------------- |
 | `mc_363490.llll.4lep.root` | Irreducible 4-lepton background         |
+| `mc_410000.ttbar_lep.4lep.root` | Leptonic $t\bar{t}$ background       |
+| `mc_361108.Ztautau.4lep.root`    | $Z \rightarrow \tau\tau$ background ($Z+$jets) |
+| `mc_361107.Zmumu.4lep.root`      | $Z \rightarrow \mu\mu$ background ($Z+$jets)  |
+| `mc_361106.Zee.4lep.root`        | $Z \rightarrow ee$ background ($Z+$jets)      |
 
 ---
 
